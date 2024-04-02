@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Veronika. I am a Product Owner interested about the detail of things. Hence you will see my journey with SQL and Python. In the direction of Data Science, Data Analysis and Data Engineering.  
 
 <!--
 **kivancsi-melveru/kivancsi-melveru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
